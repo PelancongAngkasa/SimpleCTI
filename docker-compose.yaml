@@ -1,0 +1,9 @@
+services:
+  cti:
+    build: .
+    container_name: cti-collector
+    env_file: .env
+    volumes:
+      - /var/log:/var/log:ro
+      - .:/app
+    restart: always
