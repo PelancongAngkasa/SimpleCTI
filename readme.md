@@ -151,7 +151,7 @@ Notifikasi untuk aktivitas berisiko tinggi
 ---
 
 ## Kontributor
-PelancongAngkasa(Staf di kamsiber kementan)
+PelancongAngkasa(Main Developer)
 
 ---
 
